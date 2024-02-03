@@ -6,7 +6,7 @@
 
 📊 Currently enhancing my skills in Data Analysis using Python, aiming for proficiency and precision in data-driven insights. My goal is to leverage data to uncover meaningful patterns and contribute to informed decision-making.
 
-💬 Outside of coding, I enjoy exploring diverse literature, discussing tech trends, and contributing to knowledge-sharing communities.
+💬 Outside of coding, I enjoy exploring diverse literature, discussing tech trends, and contributing to knowledge-sharing communities. I'm also passionate about photography and occasionally capture moments that tell a story.
 
 📧 How to contact me: Feel free to reach out via email at <a href="mailto:alwadhiv@gmail.com"><img src="https://img.shields.io/badge/Email-%230077B5.svg?logo=gmail&logoColor=white" alt="Email" /></a>
 
